@@ -20,5 +20,3 @@ for (int i = 0; i < size; i++)
 
 Console.Write(string.Join(" ", numbers));
 Console.Write($" - введено чисел больше 0: {count}");
-
-
